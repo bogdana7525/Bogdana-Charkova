@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+    width: 1440px;
+    height: 1024px;
+    background-color: darksalmon;
+}
+.header_title h1{
+    /*margin-top: 34px;*/
+    width: 500px;
+    height: 46px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #d42828;
+    margin: 0; auto;
+    padding: 10px;
+}
+.nav{
+    margin-top: 59px;
+    flex-direction: column;
+    font-family: "Montserrat";
+}
+.fish1, .fish2, .fish3 {
+width: 290px;
+
+}
+.section_item1 {
+
+}
+p{
+    margin-top: 50px;
+    width: 906px;
+    text-align: justify;
+}
